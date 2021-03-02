@@ -14,4 +14,4 @@ You can access some metadata through the BOIL object:
 
 You can include files from the includes directory:
 
-{% include 'includes:author.txt' %}
+{{'{%'}} include 'includes:author.txt' {{'%}'}}
