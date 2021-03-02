@@ -1,0 +1,5 @@
+Include this file with
+
+include:{{BOIL.FILENAME}}
+
+in other files.
