@@ -1,6 +1,6 @@
 # Parboil template {{TemplateName}}
 
-This is a project template for [parboil](https://github.com/jneug/parboil) created by [{{AuthorName}}](https://github.com/{{GitHubName}}).
+This is a project template for [parboil](https://github.com/jneug/parboil) created by [{{Author}}](https://github.com/{{GitHubName}}).
 
 To use it you first have to install `parboil`:
 
