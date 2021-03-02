@@ -1,1 +1,1 @@
-[{{Author}}](https://github.com/{{GitHubName}}) (_This info was included from {{BOIL.FILENAME}}._)
+Created by [{{Author}}](https://github.com/{{GitHubName}}) (_This info was included from {{'{{'}} BOIL.FILENAME {{'}}'}}._)

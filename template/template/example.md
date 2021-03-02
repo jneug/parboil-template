@@ -9,3 +9,9 @@ You can access some metadata through the BOIL object:
 {{'{%'}} for k,v in BOIL.items() {{'%}'}}
 - {{'{{'}} k {{'}}'}} = {{'{{'}} v {{'}}'}}
 {{'{%'}} endfor {{'%}'}}
+
+----
+
+You can include files from the includes directory:
+
+{% include 'includes:author.txt' %}

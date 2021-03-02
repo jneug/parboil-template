@@ -21,6 +21,3 @@ boil use {{TemplateName}}
 ```
 
 See [the parboil documentation](https://github.com/jneug/parboil/wiki) for more options.
-
-----
-Created by {% include 'includes:author.txt' %}
