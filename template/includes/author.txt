@@ -1,0 +1,1 @@
+[{{Author}}](https://github.com/{{GitHubName}}) (_This info was included from {{BOIL.FILENAME}}._)
