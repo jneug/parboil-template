@@ -2,22 +2,18 @@
 
 This is a project template for [parboil](https://github.com/jneug/parboil) created by [{{Author}}](https://github.com/{{GitHubName}}).
 
-To use it you first have to install `parboil`:
+## Usage
 
-```
-pip install parboil
-```
+If not already done, install [parboil](https://github.com/jneug/parboil):
 
-Then install this template with
+	pip install parboil
 
-```
-boil install -d {{GitHubName}}/{{RepoName}} {{TemplateName}}
-```
+Install this template with
 
-Then use the template in an empty directory with
+	boil install -d {{GitHubName}}/{{RepoName}} {{TemplateName}}
 
-```
-boil use {{TemplateName}}
-```
+Use the template with
+
+	boil use {{TemplateName}} MY/PROJECT/DIR
 
 See [the parboil documentation](https://github.com/jneug/parboil/wiki) for more options.
